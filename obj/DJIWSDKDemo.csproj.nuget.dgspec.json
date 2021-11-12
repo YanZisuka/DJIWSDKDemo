@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIWSDKDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIVideoParser\\DJIVideoParser.vcxproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIVideoParser\\DJIVideoParser.vcxproj",
+        "projectName": "DJIVideoParser",
+        "projectPath": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIVideoParser\\DJIVideoParser.vcxproj"
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
+    "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIWSDKDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIWSDKDemo.csproj",
+        "projectName": "DJIWSDKDemo",
+        "projectPath": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIWSDKDemo.csproj",
+        "packagesPath": "C:\\Users\\pc2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pc2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.16299"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.16299": {
+            "projectReferences": {
+              "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIVideoParser\\DJIVideoParser.vcxproj": {
+                "projectPath": "C:\\Users\\pc2\\source\\repos\\DJIWSDKDemo\\DJIVideoParser\\DJIVideoParser.vcxproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.16299": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.11, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

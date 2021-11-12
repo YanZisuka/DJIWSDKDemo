@@ -1,0 +1,2 @@
+﻿  DJIVideoParser.vcxproj -> C:\Users\pc2\source\repos\DJIWSDKDemo\Debug\DJIVideoParser\DJIVideoParser.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\AppxPackage\Microsoft.AppXPackage.Targets(1251,5): warning APPX1503: 프로젝트에 ..\djiuwpsample\package.appxmanifest 앱 매니페스트를 나타내는 항목이 1개 있습니다. 앱 패키지 생성에 사용되지 않는 앱 매니페스트는 무시됩니다.
